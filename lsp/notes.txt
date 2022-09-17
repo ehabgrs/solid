@@ -1,0 +1,7 @@
+#Liskov substitution principle: LSP
+
+#It is based on the concept of "substitutability" – a principle in object-oriented programming stating that an object (such as a class) and a sub-object (such as a class that extends the first class) must be interchangeable without breaking the program
+
+#Preconditions cannot be strengthened in the subtype.
+#Postconditions cannot be weakened in the subtype.
+#Invariants must be preserved in the subtype.
